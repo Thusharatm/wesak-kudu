@@ -1,0 +1,6 @@
+{
+  "name": "Digital Wesak Kudu Creator",
+  "description": "Create, customize, and share interactive glowing Sri Lankan Wesak lanterns (Wesak Kudu) with personal greeting wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
